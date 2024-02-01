@@ -13,4 +13,8 @@ item { id:12,name:'bò lai kobe'}
 item { id:13,name:'lai bò sữa'}
 item { id:14,name:'fuarkyu'}
 item { id:15,name:'bò rừng'}
+item { id:16,name:'bò vàng việt nam'}
+item { id:17,name:'bò sừng dài texas'}
+item { id:18,name:'Bỉ'}
+item { id:19,name:'ba lan'}
 

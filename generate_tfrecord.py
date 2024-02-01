@@ -44,7 +44,11 @@ def class_text_to_int(row_label):
 	'bò lai kobe': (12, 'bò lai kobe'),
 	'lai bò sữa': (13, 'lai bò sữa'),
 	'fuarkyu': (14, 'fuarkyu'),
-	'bò rừng': (15, 'bò rừng'),}
+	'bò rừng': (15, 'bò rừng'),
+	bò vàng việt nam': (16, 'bò vàng việt nam'),
+	'bò sừng dài texas': (17, 'bò sừng dài texas'),
+	Bỉ': (18, 'Bỉ'),
+	'ba lan': (19, 'ba lan'),}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
