@@ -1,49 +1,16 @@
-item { id:1,name:'cow-Brahmans'}
-item { id:2,name:'cow-lai-sua-vietnam'}
-item { id:3,name:'cow-bay'}
-item { id:4,name:'cow-thuy-dien'}
-item { id:5,name:'cow-vang-vietnam'}
-item { id:6,name:'cow-sung'}
-item { id:7,name:'cow-nepan'}
-item { id:8,name:'cow-vietnam'}
-item { id:9,name:'cow-nauy'}
-item { id:10,name:'cow-sua-01'}
-item { id:11,name:'cow-phap'}
-item { id:12,name:'cow-yellow'}
+item { id:1,name:'Gyr'}
+item { id:2,name:'bò sữa'}
+item { id:3,name:'Sahiwal'}
+item { id:4,name:'Angus'}
+item { id:5,name:'Charolais'}
+item { id:6,name:'Brahman'}
+item { id:7,name:'Blonde Aquitaine'}
+item { id:8,name:'Limousin'}
+item { id:9,name:'Wagyu'}
+item { id:10,name:'Jersey'}
+item { id:11,name:'Bò Kobe'}
+item { id:12,name:'bò lai kobe'}
 item { id:13,name:'cow-tot'}
-item { id:14,name:'cow-black'}
-item { id:15,name:'cow-yellows'}
-item { id:16,name:'cow-power'}
-item { id:17,name:'cow-twocow'}
-item { id:18,name:'cow-foudes'}
-item { id:19,name:'cow-japan'}
-item { id:20,name:'cow-ghi'}
-item { id:21,name:'cow-china'}
-item { id:22,name:'cow-faroar'}
-item { id:23,name:'cow-lao'}
-item { id:24,name:'cow-foask'}
-item { id:25,name:'cow-chile'}
-item { id:26,name:'cow-vang'}
-item { id:27,name:'cow-my'}
-item { id:28,name:'cow-korea'}
-item { id:29,name:'cow-luc-dien'}
-item { id:30,name:'cow-duc'}
-item { id:31,name:'cow-Jersey'}
-item { id:32,name:'cow-Brahman'}
-item { id:33,name:'cow-Sahiwal'}
-item { id:34,name:'cow-Droughmaster'}
-item { id:35,name:'cow-Angus'}
-item { id:36,name:'cow-Charolais'}
-item { id:37,name:'cow-Limousin'}
-item { id:38,name:'cow-bi'}
-item { id:39,name:'cow-kobe'}
-item { id:40,name:'cow-ba-lan'}
-item { id:41,name:'cow-Blonde-Aquitaine'}
-item { id:42,name:'cow-sua-vietnam'}
-item { id:43,name:'cow-three-cow'}
-item { id:44,name:'cow-sua-russia'}
-item { id:45,name:'cow-lai-sua'}
-item { id:46,name:'cow-Prasit'}
-item { id:47,name:'cow-ha-lan'}
-
+item { id:14,name:'fuarkyu'}
+item { id:15,name:'bò rừng'}
 
