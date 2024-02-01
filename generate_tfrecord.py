@@ -30,21 +30,21 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     VOC_LABELS = {
         'none': (0, 'Background'),
-        'cow-Brahmans': (1, 'Gyr'),
-        'cow-lai-sua-vietnam': (2, 'bò sữa'),
-        'cow-bay': (3, 'Sahiwal'),
-        'cow-thuy-dien': (4, 'Angus'),
-        'cow-vang-vietnam': (5, 'Charolais'),
-        'cow-sung': (6, 'Brahman'),
-	'cow-nepan': (7, 'Blonde Aquitaine'),
-        'cow-vietnam': (8, 'Limousin'),
-	'cow-nauy': (9, 'Wagyu'),
-	'cow-sua-01': (10, 'Jersey'),
-	'cow-phap': (11, 'Bò Kobe'),
-	'cow-yellow': (12, 'bò lai kobe'),
-	'cow-tot': (13, 'lai bò sữa'),
-	'cow-black': (14, 'fuarkyu'),
-	'cow-yellows': (15, 'bò rừng'),}
+        'Gyr': (1, 'Gyr'),
+        'bò sữa': (2, 'bò sữa'),
+        'Sahiwal': (3, 'Sahiwal'),
+        'Angus': (4, 'Angus'),
+        'Charolais': (5, 'Charolais'),
+        'Brahman': (6, 'Brahman'),
+	'Blonde Aquitaine': (7, 'Blonde Aquitaine'),
+        'Limousin': (8, 'Limousin'),
+	'Wagyu': (9, 'Wagyu'),
+	'Jersey': (10, 'Jersey'),
+	'Bò Kobe': (11, 'Bò Kobe'),
+	'bò lai kobe': (12, 'bò lai kobe'),
+	'lai bò sữa': (13, 'lai bò sữa'),
+	'fuarkyu': (14, 'fuarkyu'),
+	'bò rừng': (15, 'bò rừng'),}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1

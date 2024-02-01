@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image bò</folder>
+	<filename>20.jpg</filename>
+	<path>C:\Users\LENOVO T460S\Pictures\image bò\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>742</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bò vàng việt nam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>147</ymin>
+			<xmax>740</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bò vàng việt nam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>85</ymin>
+			<xmax>1120</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
